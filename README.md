@@ -51,8 +51,4 @@ Support strategic decision-making through a detailed view of financial health, w
 - ✅ Clear understanding of sales & financial reporting  
 - ✅ Empathy-led **user-centric report design**  
 - ✅ Optimized reports through iterative improvements  
-- ✅ Planned and structured reporting with a systematic approach  
-
----
-
-🔗 **Explore the reports, code logic, and models** to see how Excel evolves from a spreadsheet to a true BI engine.
+- ✅ Planned and structured reporting with a systematic approach
